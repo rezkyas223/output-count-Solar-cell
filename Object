@@ -1,0 +1,62 @@
+Performance Under Standard Test Conditions :
+    Type SW 280 :
+        Maximum Power Output = 280 Wp
+        Open Circuit Voltage = 39.5 V
+        Maximum Power Point VOltage = 31.2 V
+        Short Circuit Current = 9.71 A
+        Maximum Power Point Current = 9.07 A
+        Module Effiency = 16.70 %
+
+    Type SW 285 :
+        Maximum Power Output = 285 Wp
+        Open Circuit Voltage = 39.7 V
+        Maximum Power Point VOltage = 31.3 V
+        Short Circuit Current = 9.84 A
+        Maximum Power Point Current = 9.20 A
+        Module Effiency = 17.00
+
+    Type SW 290 :
+        Maximum Power Output = 290 Wp
+        Open Circuit Voltage = 39.9 V
+        Maximum Power Point VOltage = 31.4 V
+        Short Circuit Current = 9.97 A
+        Maximum Power Point Current = 9.33 A
+        Module Effiency = 17.30 % 
+    
+    Type SW 295 :
+        Maximum Power Output = 295 Wp
+        Open Circuit Voltage = 40.0 V
+        Maximum Power Point VOltage = 31.5 V
+        Short Circuit Current = 10.10 A
+        Maximum Power Point Current = 9.45 A
+        Module Effiency = 17.59 %
+
+
+Performance Normal Operating Cell Temperature :
+    Type SW 280 :
+        Maximum Power Output = 209.2 Wp
+        Open Circuit Voltage = 36.1 V
+        Maximum Power Point Voltage = 28.5 V
+        Short Circuit Current = 7.85 A
+        Maximum Power Point Current = 7.33 A
+
+    Type SW 285 :
+        Maximum Power Output = 213.1 Wp
+        Open Circuit Voltage = 36.4 V
+        Maximum Power Point VOltage = 28.7 V
+        Short Circuit Current = 7.96 A
+        Maximum Power Point Current = 7.33 A
+
+    Type SW 290 :
+        Maximum Power Output = 217.1 Wp
+        Open Circuit Voltage = 36.6 V
+        Maximum Power Point VOltage = 28.8 V
+        Short Circuit Current = 8.06 A
+        Maximum Power Point Current = 8.06 A
+    
+    Type SW 295 :
+        Maximum Power Output = 220.5 Wp
+        Open Circuit Voltage = 36.7 V
+        Maximum Power Point VOltage = 28.9 V
+        Short Circuit Current = 8.17 A
+        Maximum Power Point Current = 7.64 A
