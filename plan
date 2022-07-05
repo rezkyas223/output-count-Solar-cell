@@ -1,0 +1,29 @@
+Address
+    -street
+    -city
+
+Person
+    - name
+    - age
+    - phone Number
+    - address
+
+Student(person)
+    -is_international
+    -is_part_time
+    
+Professor(person)
+    -salary
+    -has_got_bonus
+
+Course
+    -max_student
+    -min_student
+    -is_cancelled
+
+Enrollment
+    - student
+    - course
+    - grade
+
+
